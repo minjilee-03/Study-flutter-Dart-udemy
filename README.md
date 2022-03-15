@@ -1,3 +1,3 @@
-# Study-flutter-Dart-undemy
+# Study-flutter-Dart-udemy
 
-Undemy 예제를 학습하는 공간
+Udemy 예제를 학습하는 공간
